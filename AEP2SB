@@ -2,7 +2,7 @@
 //         Miguel Falcão Costacurta
 //         Pedro Massaki Carnelossi
 // Software de criptografia de Dados de login (Usuário e senha) desenvolvido
-// pelos alunos citados acima utilizando-se da criptografia de césar somando da tabela ASCII
+// pelos alunos citados acima utilizando-se da criptografia cifras de césar somando da tabela ASCII
 // o caracter mais 5 posições à frente.
 
 
